@@ -1,8 +1,8 @@
-## Hi there 👋
+## Hi, I'm Revan 
 
 <!--
-**revanbakir/revanbakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+I'm a software developer focused on 'AI-powered tools' and 'data engineering'.  
+I build systems that make sense of unstructured data — CVs, job markets, and beyond.
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

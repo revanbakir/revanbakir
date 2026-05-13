@@ -11,7 +11,7 @@ I build systems that make sense of unstructured data — CVs, job markets, and b
 - **[job-tech-agent](https://github.com/revanbakir/job-tech-agent)** — An AI agent that analyzes Turkish job market trends. Scrapes listings and generates demand reports by technology and role. *(In active development)*
 
 
-## ## Tech stack
+## Tech stack
 
 `Python` `FastAPI` `SQL` `Docker` `Anthropic API` `LLM tooling`
 
